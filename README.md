@@ -1,5 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Abinbn&label=Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 # auto_e-mail 
+It is a learning curve for me. I learned how to include the mailto feature in the website for feedback and queries.
 When the button is pressed it opens the Gmail app with a pre-set Recipient, Body and Subject
 
 ### Link which helps to send mail
